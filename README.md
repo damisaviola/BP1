@@ -3,7 +3,7 @@
 <title>learn bgcolor</title>
 </head>
 <body bgcolor="green">
-like this color
+<h1>like this color
 
 </body>
 </html>
