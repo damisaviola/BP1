@@ -1,1 +1,2 @@
-<h1 bg-color: blue;>PROGRAM KOTLIN<h1>
+<style type="text/css">
+body { background-color:black; }
