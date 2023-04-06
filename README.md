@@ -1,2 +1,2 @@
 <style type="text/css">
-body { background-color:black; }
+body { background-color:blue; }
